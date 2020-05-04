@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="calculator.cpp" />
     <ClCompile Include="equation.cpp" />
     <ClCompile Include="lab2.cpp" />
   </ItemGroup>
